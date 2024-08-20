@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hacsa\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\\u0110\u1EA1i h\u1ECDc\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\.Net\\test\\MovieWebsite\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F999C58C-2A04-4BE3-B24C-C6745F9EE589}|MovieWebsite\\MovieWebsite.csproj|c:\\users\\hacsa\\onedrive\\ta\u0300i li\u00EA\u0323u\\\u0111\u1EA1i h\u1ECDc\\m\u00F4n chuy\u00EAn ng\u00E0nh\\.net\\test\\moviewebsite\\moviewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999C58C-2A04-4BE3-B24C-C6745F9EE589}|MovieWebsite\\MovieWebsite.csproj|solutionrelative:moviewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999C58C-2A04-4BE3-B24C-C6745F9EE589}|MovieWebsite\\MovieWebsite.csproj|c:\\users\\hacsa\\onedrive\\ta\u0300i li\u00EA\u0323u\\\u0111\u1EA1i h\u1ECDc\\m\u00F4n chuy\u00EAn ng\u00E0nh\\.net\\test\\moviewebsite\\moviewebsite\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999C58C-2A04-4BE3-B24C-C6745F9EE589}|MovieWebsite\\MovieWebsite.csproj|solutionrelative:moviewebsite\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999C58C-2A04-4BE3-B24C-C6745F9EE589}|MovieWebsite\\MovieWebsite.csproj|c:\\users\\hacsa\\onedrive\\ta\u0300i li\u00EA\u0323u\\\u0111\u1EA1i h\u1ECDc\\m\u00F4n chuy\u00EAn ng\u00E0nh\\.net\\test\\moviewebsite\\moviewebsite\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999C58C-2A04-4BE3-B24C-C6745F9EE589}|MovieWebsite\\MovieWebsite.csproj|solutionrelative:moviewebsite\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999C58C-2A04-4BE3-B24C-C6745F9EE589}|MovieWebsite\\MovieWebsite.csproj|c:\\users\\hacsa\\onedrive\\ta\u0300i li\u00EA\u0323u\\\u0111\u1EA1i h\u1ECDc\\m\u00F4n chuy\u00EAn ng\u00E0nh\\.net\\test\\moviewebsite\\moviewebsite\\moviewebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F999C58C-2A04-4BE3-B24C-C6745F9EE589}|MovieWebsite\\MovieWebsite.csproj|solutionrelative:moviewebsite\\moviewebsite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999C58C-2A04-4BE3-B24C-C6745F9EE589}|MovieWebsite\\MovieWebsite.csproj|c:\\users\\hacsa\\onedrive\\ta\u0300i li\u00EA\u0323u\\\u0111\u1EA1i h\u1ECDc\\m\u00F4n chuy\u00EAn ng\u00E0nh\\.net\\test\\moviewebsite\\moviewebsite\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999C58C-2A04-4BE3-B24C-C6745F9EE589}|MovieWebsite\\MovieWebsite.csproj|solutionrelative:moviewebsite\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hacsa\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\\u0110\u1EA1i h\u1ECDc\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\.Net\\test\\MovieWebsite\\MovieWebsite\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MovieWebsite\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hacsa\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\\u0110\u1EA1i h\u1ECDc\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\.Net\\test\\MovieWebsite\\MovieWebsite\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MovieWebsite\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:22:27.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\hacsa\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\\u0110\u1EA1i h\u1ECDc\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\.Net\\test\\MovieWebsite\\MovieWebsite\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "MovieWebsite\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\hacsa\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\\u0110\u1EA1i h\u1ECDc\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\.Net\\test\\MovieWebsite\\MovieWebsite\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "MovieWebsite\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:21:54.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieWebsite",
+              "DocumentMoniker": "C:\\Users\\hacsa\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\\u0110\u1EA1i h\u1ECDc\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\.Net\\test\\MovieWebsite\\MovieWebsite\\MovieWebsite.csproj",
+              "RelativeDocumentMoniker": "MovieWebsite\\MovieWebsite.csproj",
+              "ToolTip": "C:\\Users\\hacsa\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\\u0110\u1EA1i h\u1ECDc\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\.Net\\test\\MovieWebsite\\MovieWebsite\\MovieWebsite.csproj",
+              "RelativeToolTip": "MovieWebsite\\MovieWebsite.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T22:46:43.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hacsa\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\\u0110\u1EA1i h\u1ECDc\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\.Net\\test\\MovieWebsite\\MovieWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hacsa\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\\u0110\u1EA1i h\u1ECDc\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\.Net\\test\\MovieWebsite\\MovieWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswE8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T16:35:10.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\hacsa\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\\u0110\u1EA1i h\u1ECDc\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\.Net\\test\\MovieWebsite\\MovieWebsite\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieWebsite\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\hacsa\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\\u0110\u1EA1i h\u1ECDc\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\.Net\\test\\MovieWebsite\\MovieWebsite\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieWebsite\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:35:42.15Z",
+              "EditorCaption": ""
             }
           ]
         }
